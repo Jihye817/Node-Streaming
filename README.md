@@ -17,4 +17,3 @@ Node.js 스트리밍 예제 파일입니다.
 실행 전 `npm install` 이 필요합니다.
 
 프론트(index.html) 실행하시고 해당 파일 실행하시면 됩니다.
-# Node-Streaming
